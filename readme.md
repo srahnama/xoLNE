@@ -5,11 +5,7 @@ at least two player must be online for plying and connect them by nodejs and the
 ## App View
 ![alt_text](https://github.com/srahnama/xoLNE/blob/master/example.png)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
+## Prerequisites
 
 * PHP
 * Javascript
@@ -17,6 +13,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Larvel
 * Nodejs
 * expressjs
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
 
 
 by : [Shahab Rahnama](http://srahnama.ir/)
